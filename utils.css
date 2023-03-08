@@ -1,0 +1,29 @@
+.text-center{
+    /* justify-content: center; */
+    text-align: center;
+}
+
+.bg-red{
+    background:red;
+}
+
+.bg-yellow{
+    background-color: #f2eb2b;
+}
+
+.bg-green{
+    background-color: lightgreen;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    /* justify-content: center; */
+    align-items: center;
+}
